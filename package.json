@@ -1,0 +1,24 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "package json",
+  "main": "blogPostsRouter.js",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcbanks76/Blog-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcbanks76/Blog-API/issues"
+  },
+  "homepage": "https://github.com/mcbanks76/Blog-API#readme"
+}
